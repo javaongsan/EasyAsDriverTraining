@@ -1,0 +1,15 @@
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.FrmDbSetting.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.FrmInit.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.FrmLogin.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.FrmNewVersion.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.Properties.Resources.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.csproj.GenerateResource.Cache
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\bin\Debug\EasyAsDriverTraining.exe
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\bin\Debug\EasyAsDriverTraining.pdb
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\bin\Debug\MySql.Data.dll
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.exe
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.pdb
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.frmMain.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.FrmUserSetup.resources
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.csprojResolveAssemblyReference.cache
+E:\oDesk\EasyAsDriverTraining\EasyAsDriverTraining\obj\x86\Debug\EasyAsDriverTraining.frmListing.resources
